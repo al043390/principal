@@ -1,5 +1,8 @@
 body{
   font-family: Lucida Sans;
-  background-image: fondo.jpg;
+  background-image: "fondo.jpg";
+  background-size: cover;
+  background-repeat: no-repeat;
+  
   
 }
